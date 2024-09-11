@@ -12,5 +12,7 @@ first_symmetric_diff= set2.symmetric_difference(set1)
 second_symmetric_diff = set1.symmetric_difference(set2)
 print("Symmetric Difference: ", first_symmetric_diff, ",", second_symmetric_diff)
 
-set_intersection = set1.intersection(set2)
-print("Set Intersection: ", set_intersection)
+first_set_intersection = set1.intersection(set2)
+second_set_intersection = set2.intersection(set1)
+
+print("Set Intersection: ", first_set_intersection, ",", second_set_intersection)

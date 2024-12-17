@@ -1,4 +1,4 @@
-✨**Laboratory Activities** ✨
+# ✨**Laboratory Activities** ✨
 ## **_CS 121: Advanced Computer Programming_** 
 
 ### 🗃️ **About**
@@ -67,4 +67,4 @@
 ---
 
 💌 **Thank You!**  💌
-print("Keep on Coding!")
+### print("Keep on Coding!")
